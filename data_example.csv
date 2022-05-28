@@ -4,17 +4,17 @@ age,sex,smoking,drinking,tea,gastrointestinal_cancer,total_protein,prealbumin,he
 50,male,yes,no,yes,yes,64.7,250,114,249,25,31,6.840665874,3 severely reduced,yes,no,no,no,yes,no,no,4
 76,male,yes,yes,no,no,55.2,22.5,94,54,25,31,7.373193732,1 normal,no,no,no,no,no,no,no,2
 70,male,no,no,no,yes,68.2,40,92,127,26,36,7.765478299,2 slightly reduced,yes,yes,no,no,no,no,yes,2
-56,male,no,no,no,no,58.2,200,116,151,29,34,7.418857883,2 slightly reduced,no,no,no,no,no,yes,no,3
-58,female,no,no,no,no,72,130,124,184,30,36.5,6.803686563,2 slightly reduced,no,no,no,no,no,no,no,2
-70,female,no,no,no,yes,73.5,270,129,181,28,31,5.271681146,1 normal,no,no,no,no,no,no,no,1
-64,male,yes,yes,yes,no,68.7,310,120,338,26,32.5,7.667128028,1 normal,yes,yes,no,no,no,no,yes,3
+56,male,no,no,no,no,58.2,200,116,151,29,34,7.418857883,2 slightly reduced,no,no,no,yes,no,yes,no,3
+58,female,no,no,no,no,72,130,124,184,30,36.5,6.803686563,2 slightly reduced,no,no,no,yes,no,no,no,2
+70,female,no,no,no,yes,73.5,270,129,181,28,31,5.271681146,1 normal,no,no,no,yes,no,no,no,1
+64,male,yes,yes,yes,no,68.7,310,120,338,26,32.5,7.667128028,1 normal,yes,yes,no,yes,no,no,yes,3
 52,female,no,no,no,no,64.9,80,86,361,20,25,4.511009365,1 normal,no,no,no,no,no,no,no,1
-64,female,no,no,no,no,67.6,245,119,244,31,34,6.436694215,1 normal,no,no,no,no,no,yes,no,2
-55,male,yes,yes,no,no,63,110,106,319,29,32,7.314878893,2 slightly reduced,no,no,no,no,no,yes,yes,3
-66,male,yes,no,no,no,61.3,204,109,230,25,30,7.511836735,1 normal,no,no,no,no,no,no,no,1
-66,female,no,no,no,yes,65,240,85,174,20.5,30.5,4.662304688,3 severely reduced,yes,no,no,no,no,yes,yes,4
-69,female,no,no,no,no,56.7,220,112,268,29,32,6.193760396,3 severely reduced,no,yes,no,no,no,yes,yes,5
-62,female,no,no,no,no,67.4,242,120,99,32,35.5,6.966842898,1 normal,no,no,no,no,no,no,no,2
+64,female,no,no,no,no,67.6,245,119,244,31,34,6.436694215,1 normal,no,no,yes,no,no,yes,no,2
+55,male,yes,yes,no,no,63,110,106,319,29,32,7.314878893,2 slightly reduced,no,no,yes,no,no,yes,yes,3
+66,male,yes,no,no,no,61.3,204,109,230,25,30,7.511836735,1 normal,no,no,yes,no,no,no,no,1
+66,female,no,no,no,yes,65,240,85,174,20.5,30.5,4.662304688,3 severely reduced,yes,no,yes,no,no,yes,yes,4
+69,female,no,no,no,no,56.7,220,112,268,29,32,6.193760396,3 severely reduced,no,yes,yes,no,no,yes,yes,5
+62,female,no,no,no,no,67.4,242,120,99,32,35.5,6.966842898,1 normal,no,no,yes,no,no,no,no,2
 60,female,no,no,no,no,73.3,252,116,166,33,35.5,6.746875,1 normal,no,no,no,no,no,no,no,2
 36,female,no,no,no,no,77.8,310,147,169,31,35,7.034129146,1 normal,no,no,no,no,no,no,no,1
 45,female,no,no,no,no,76.5,307.3,121,152,27,34,5.952341311,1 normal,no,no,no,no,no,no,no,1
